@@ -21,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/kokila17/Kokila-Leetcode/tree/master/0349-intersection-of-two-arrays) |
+## Database
+|  |
+| ------- |
+| [1245-user-activity-for-the-past-30-days-i](https://github.com/kokila17/Kokila-Leetcode/tree/master/1245-user-activity-for-the-past-30-days-i) |
 <!---LeetCode Topics End-->
