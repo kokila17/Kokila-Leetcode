@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kokila17/Kokila-Leetcode/tree/master/0011-container-with-most-water) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kokila17/Kokila-Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/kokila17/Kokila-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kokila17/Kokila-Leetcode/tree/master/0011-container-with-most-water) |
 | [0349-intersection-of-two-arrays](https://github.com/kokila17/Kokila-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
@@ -27,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/kokila17/Kokila-Leetcode/tree/master/1245-user-activity-for-the-past-30-days-i) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/kokila17/Kokila-Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
