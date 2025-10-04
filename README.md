@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0619-biggest-single-number](https://github.com/kokila17/Kokila-Leetcode/tree/master/0619-biggest-single-number) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/kokila17/Kokila-Leetcode/tree/master/1245-user-activity-for-the-past-30-days-i) |
 ## Greedy
 |  |
